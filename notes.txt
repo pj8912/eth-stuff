@@ -1,0 +1,31 @@
+Solidity statically typed 
+
+Data value types:
+	- Integers
+	- Boolean 
+	- Bytes and strings
+	- Address
+	- Enums
+
+
+Data Reference Types:
+	- Arrays
+	- Struct
+	- Mapping
+-------------------------------------------------------------------------------------------
+Visibility Modifiers: control access to variables and functions
+
+these are made use by keywords
+
+state variables have three Visibility Modifiers:
+	- public 
+	- internal
+	- private
+external keyword is not applicable to state variables
+
+functions have:
+	- external
+	- public
+	- internal
+	- private
+	
