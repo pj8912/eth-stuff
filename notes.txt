@@ -14,6 +14,24 @@ Any participant who broadcasts a transaction request must also offer some amount
 whoever eventually does the work of verifying the transaction, executing it, committing it to the blockchain, and broadcasting it to the network.
 
 -------------------------------------------------------------------------------------------------------
+Accounts:
+- In ethereum an account can send and receive transactions with ETH. Itcan be user-controlled or a deployed smart contract
+
+- both accounts can:
+	- Receive, send, and hold ETH
+	- Interact with deployed smart contract 
+
+
+ -- types: Ethereum has two account types:
+	- Externally-owned accounts(EOA) controlled by anyone with private keys
+	- Contract account - a smart contract deployed to the network, controlled by code
+
+
+
+
+
+
+
 Transactions:
 
 
