@@ -1,6 +1,6 @@
 ETHEREUM DEVELOPMENT DOCUMENTATION: https://ethereum.org/en/developers/docs/
 
-
+ 
 EVM
 
 The Ethereum Virtual Machine is the global virtual computer whose state every participant on the Ethereum network stores and agrees on. Any participant can request the execution of arbitrary code on the EVM; code execution changes the state of the EVM. https://ethereum.org/en/developers/docs/evm/
